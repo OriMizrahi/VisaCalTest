@@ -1,0 +1,4 @@
+C:\Users\orior\Projects\VisaCal\VisaCalClient\obj\Debug\netcoreapp3.1\VisaCalClient.csprojAssemblyReference.cache
+C:\Users\orior\Projects\VisaCal\VisaCalClient\obj\Debug\netcoreapp3.1\VisaCalClient.AssemblyInfoInputs.cache
+C:\Users\orior\Projects\VisaCal\VisaCalClient\obj\Debug\netcoreapp3.1\VisaCalClient.AssemblyInfo.cs
+C:\Users\orior\Projects\VisaCal\VisaCalClient\obj\Debug\netcoreapp3.1\VisaCalClient.csproj.CoreCompileInputs.cache

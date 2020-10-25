@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "dog",
+    "Amount": 5
+  },
+  {
+    "Name": "duck",
+    "Amount": 81
+  },
+  {
+    "Name": "cat",
+    "Amount": 1
+  },
+  {
+    "Name": "lion",
+    "Amount": 1
+  }
+]
